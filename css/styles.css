@@ -511,7 +511,6 @@ color: var(--background-hover-color);
 
 .footer-form-icon {
     margin-left: 16px;
-    margin-top: 10px;
     fill: #FFFFFF;;
     
 }
@@ -782,8 +781,6 @@ color: var(--background-hover-color);
 }
 
 .check-text {
-    display: flex;
-    align-items: center;
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
